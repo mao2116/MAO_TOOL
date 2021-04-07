@@ -168,16 +168,16 @@ while True:
 
             server.starttls()
             server.login("hackermao2116@gmail.com","2116hackermao@")
-            mm = input("How Much You Want To Send :")
+            mm = input(colored("How Much You Want To Send :", 'green'))
             mm = int(mm)
-            gm = input("Target Gmail :")
+            gm = input(colored("Target Gmail :", 'green'))
             sm = input(colored("What You Want To Send :", 'green'))
             for i in range(mm):
               try:
                 server.sendmail("hackermao2116@gmail.com",gm,sm)
-                print("succes")
+                print("SuccesFully Email Sent!")
               except:
-                print("mao")
+                print("Try Again.")
             break    
           elif x4 == '5':
             res = requests.get("https://www.facebook.com/ekramul.hassan.79827")
