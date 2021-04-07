@@ -112,7 +112,7 @@ while True:
                  word(colored("Massege Sent SuccesFully", 'cyan'))
                else:
                 word(colored("sorry", 'green'))
-              os.system("xdg-open https://github.com")
+              os.system("xdg-open https://www.facebook.com/ekramul.hassan.79827")
               break
              else:
                word(colored("Max Massege 50 , Please Try Again", 'green'))
