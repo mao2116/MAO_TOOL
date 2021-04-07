@@ -94,7 +94,7 @@ while True:
           x4 = input(colored("Chose One Of Them :", 'green'))
           x5 = colored(x5, 'green')
           if x4 == '1':
-           num = input(colored("Your Number :", 'cyan'))
+           num = input(colored("Fucking Number :", 'cyan'))
            while True:
              print(colored("Max 50!!", 'green'))
              msg = input(colored("How Much You Want To Send :", 'green'))
@@ -168,10 +168,10 @@ while True:
 
             server.starttls()
             server.login("hackermao2116@gmail.com","2116hackermao@")
-            mm = input("Number :")
+            mm = input("How Much You Want To Send :")
             mm = int(mm)
-            gm = input("Your Gmail :")
-            sm = input("YOu Mass :")
+            gm = input("Target Gmail :")
+            sm = input(colored("What You Want To Send :", 'green'))
             for i in range(mm):
               try:
                 server.sendmail("hackermao2116@gmail.com",gm,sm)
