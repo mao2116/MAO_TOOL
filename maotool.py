@@ -153,7 +153,7 @@ while True:
 
 
             break
-          elif x4 == '3':
+          elif x4 == '4':
             
             x = figlet_format("Wait", 'big')
             x = colored(x, 'green')
@@ -163,7 +163,7 @@ while True:
             word(x)
             os.system('xdg-open https://github.com/mao2116/')
             break
-          elif x4 == '4':
+          elif x4 == '3':
             server = smtplib.SMTP('smtp.gmail.com', 587)
 
             server.starttls()
