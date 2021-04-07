@@ -27,6 +27,8 @@ $ apt upgrade
 
 $ apt install git
 
+$ apt install python 
+
 $ git clone https://github.com/mao2116/MAO_TOOL/
 
 $ cd MAO_TOOL
