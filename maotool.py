@@ -24,8 +24,8 @@ except:
     #os.system('pip install ')
   else:
     
-    print(colored("if You Can't Install  Requerments Then Tool Not Run.", 'red'))
-    print(colored("Install Requerments", 'green')) 
+    print("if You Can't Install  Requerments Then Tool Not Run.")
+    print("Install Requerments") 
   exit()
 user = 'mao'#
 passwd = '2116'#
