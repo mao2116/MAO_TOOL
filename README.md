@@ -31,52 +31,14 @@ $ git clone https://github.com/mao2116/MAO_TOOL/
 
 $ cd MAO_TOOL
 
-$ bash maotool.sh
-
-For Any Time Run It:
-
-$ cd MAO_TOOL
-
 $ python3 maotool.py
-
-FOR Linux:(/kali linux /ubuntu /etc)
-
-$ sudo apt update 
-
-$ sudo apt upgrade
-
-$ sudo apt install git
-
-$ sudo apt install python
-
-$ sudo apt install python2
-
-$ sudo pip install requests
-
-$ sudo pip install termcolor
-
-$ sudo pip install pyfiglet
-
-$ sudo pip install pytube
-
-$ git clone https;//github.com/mao2116/MAO_TOOL/
-
-$ cd MAO_TOOL
-
-$ python3 maotool.py
-
-
 
 # username: mao
 # password: 2116
 
 
 
-( 1 : sms bomber
-
-2 : youtube video download
-
-3 : more codes like thise )
+# Bangladeshi Coder
 
 
 
