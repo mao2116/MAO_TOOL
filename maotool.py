@@ -9,8 +9,8 @@ try:
   from pytube import *
   import requests,time,os,sys,smtplib,pytube
 except:
-  print(colored("Please Install all requerment .", 'red'))
-  x = input(colored("Your Requerment Install Please [y or n] :", 'green'))
+  print("Please Install all requerment .")
+  x = input("Your Requerment Install Please [y or n] :")
   
   if x== 'y' or 'Y':
     os.system('apt update')
