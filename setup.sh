@@ -4,7 +4,6 @@ clear
 sleep 1.0
 pkg install python -y
 pkg install python2 -y
-pkg install python3 -y
 pip install requests
 pip install pytube
 
