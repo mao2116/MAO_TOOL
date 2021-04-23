@@ -33,6 +33,10 @@ $ cd MAO_TOOL
 
 $ bash setup.sh
 
+### Now Type 
+
+$ maotool
+
 ### username: mao
 ### password: 2116
 
