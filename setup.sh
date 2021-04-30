@@ -10,9 +10,9 @@ pip install pytube
 clear
 sleep 1.0
 cd $HOME/MAO_TOOL
-mv maotool maotool.py /data/data/com.termux/files/usr/bin
+mv maotool maotool.pyc /data/data/com.termux/files/usr/bin
 cd /data/data/com.termux/files/usr/bin
-chmod +x maotool maotool.py
+chmod +x maotool maotool.pyc
 cd $HOME/MAO_TOOL
 clear
 sleep 1.0
