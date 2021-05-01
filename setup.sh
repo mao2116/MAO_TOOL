@@ -10,7 +10,7 @@ pip install pytube
 
 clear
 sleep 1.0
-cd $PREFIX/usr/bin
+cd $PREFIX/bin
 rm -rf maotool.py
 rm -rf maotool.pyc
 rm -rf maotool
