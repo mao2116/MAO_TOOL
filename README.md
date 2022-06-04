@@ -15,15 +15,15 @@
 
 <br>
   <a href="https://github.com/mao2116/termux-style/stargazers/">
-  <a href="https://github.com/mao2116/mao_pre">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mao2116/mao_pre.svg"/>
+  <a href="https://github.com/mao2116/MAO_TOOL">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mao2116/MAO_TOOL.svg"/>
   </a>
 <br>
-  <a href="https://github.com/mao2116/mao_pre">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/mao2116/mao_pre.svg"/>
+  <a href="https://github.com/mao2116/MAO_TOOL">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/mao2116/MAO_TOOL.svg"/>
   </a>
-  <a href="https://github.com/mao2116/mao_pre">
-    <img alt="Starts" src="https://img.shields.io/github/stars/mao2116/mao_pre.svg"/>
+  <a href="https://github.com/mao2116/MAO_TOOL">
+    <img alt="Starts" src="https://img.shields.io/github/stars/mao2116/MAO_TOOL.svg"/>
   </a>
 <br>
 <a href="https://fb.com/mao2116">
@@ -62,7 +62,7 @@ python maotool.py
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/mao2116) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/mao2116) <br>
 
-<b>Copyright (c) 2022 MAO-COMMUNITY Under <a href="https://raw.githubusercontent.com/mao2116/mao_pre/main/LICENSE">MIT LICENSE</a></b>
+<b>Copyright (c) 2022 MAO-COMMUNITY Under <a href="https://raw.githubusercontent.com/mao2116/MAO_TOOL/main/LICENSE">MIT LICENSE</a></b>
 
 
 
