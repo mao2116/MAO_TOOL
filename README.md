@@ -55,7 +55,9 @@ git clone https://github.com/mao2116/MAO_TOOL.git
 cd MAO_TOOL
 python maotool.py
 ```
+### EARN COIN [ BEST WAY ]
 
+<a href='https://drive.google.com/file/d/1dmiUL8HkNPhv4rspFlblqGKocBpp0ZH7/view?usp=drivesdk'> <b>TUTORIAL</b> </a>
 
 #### MY SOCIAL MEDIA
 
