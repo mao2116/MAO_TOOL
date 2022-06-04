@@ -43,11 +43,11 @@
   
 #### INSTALL TOOL ON TERMUX
 ```python
-apt update && apt upgrade
-apt install python3
+apt update && apt upgrade -y
+apt install python3 -y
 pip install lolcat
 pip install requests bs4
-apt install git
+apt install git -y
 git clone https://github.com/mao2116/MAO_TOOL.git
 ```
 #### RUN SCRIPT
